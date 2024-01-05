@@ -912,3 +912,13 @@ h2.footer-column-title {
     margin-left: 0.5rem;
 }
 
+@media (max-width: 770px) {
+    .cards {
+        flex-wrap: wrap;
+    }
+
+    .card {
+        width: 100%;
+    }
+}
+
